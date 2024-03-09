@@ -11,6 +11,7 @@ Enter a specific ID in the input box to jump directly to a character.
 Vite: A fast build tool for modern web development.
 React: A popular JavaScript library for building user interfaces.
 Rick and Morty API: Provides character data for the application.
+Bootstrap: Provides styles for the application.
 Getting Started
 Clone the Repository:
 git clone
