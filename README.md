@@ -1,8 +1,29 @@
-# React + Vite
+# Rick and Morty Web Application
+This project is a simple web application that leverages the Rick and Morty API to display characters from the popular animated show. Users can explore character details, increment or decrement character IDs, and search for specific characters by ID.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Character Display: View a list of characters along with their name, image, and brief descriptions.
+ID Navigation:
+Use the increment and decrement buttons to navigate through character IDs.
+Enter a specific ID in the input box to jump directly to a character.
 
-Currently, two official plugins are available:
+# Technologies Used
+Vite: A fast build tool for modern web development.
+React: A popular JavaScript library for building user interfaces.
+Rick and Morty API: Provides character data for the application.
+Getting Started
+Clone the Repository:
+git clone https://github.com/your-username/rick-and-morty-app.git
+cd rick-and-morty-app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install Dependencies:
+yarn install
+
+Start the Development Server:
+yarn dev
+
+# Project Structure
+src/: Contains the React components, styles, and API integration.
+vite.config.js: Configuration file for Vite.
+Acknowledgments
+Rick and Morty API: A big thank you to the creators of the API for providing character data.
