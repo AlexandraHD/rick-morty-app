@@ -13,7 +13,7 @@ React: A popular JavaScript library for building user interfaces.
 Rick and Morty API: Provides character data for the application.
 Getting Started
 Clone the Repository:
-git clone https://github.com/your-username/rick-and-morty-app.git
+git clone
 cd rick-and-morty-app
 
 Install Dependencies:
